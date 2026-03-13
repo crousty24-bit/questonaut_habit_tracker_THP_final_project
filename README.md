@@ -142,7 +142,7 @@ L’objectif à long terme est d’élargir la plateforme avec de nouvelles fonc
     
 - 🚀 son niveau actuel
 
-![Parcours utilisateur](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\⭐️ Parcours User.jpg)
+![Parcours utilisateur](images_assets/⭐️%20Parcours%20User.jpg)
 
 ---
 
@@ -169,7 +169,7 @@ L’objectif à long terme est d’élargir la plateforme avec de nouvelles fonc
 # 🖼 Wireframe
 
 
-![Wireframe](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\🖼 Wireframe Questonaut 1.png)
+![Wireframe](images_assets/🖼%20Wireframe%20Questonaut%201.png)
 
 
 ---
@@ -177,29 +177,29 @@ L’objectif à long terme est d’élargir la plateforme avec de nouvelles fonc
 
 ### Landing Page
 
-![landing page](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_landingpage.png)
+![landing_page](images_assets/maquette_landingpage.png)
 
 ### Login / SignUp
 
-![login](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_login_signup.png)
+![login](images_assets/maquette_login_signup.png)
 
 ### Dashboard
 
-![dashboard](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_dashboard.png)
+![dashboard](images_assets/maquette_dashboard.png)
 
-![dashboard2](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_dashboard2.png)
+![dashboard2](images_assets/maquette_dashboard2.png)
 
 ### Habits
 
-![habits](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_habits.png)
+![habits](images_assets/maquette_habits.png)
 
 ### Create new mission
 
-![create_new_mission](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\create_new_mission.png)
+![create_new_mission](images_assets/create_new_mission.png)
 
 ### Stats
 
-![stats](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_stats.png)
+![stats](images_assets/maquette_stats.png)
 
 
 ---
