@@ -142,7 +142,7 @@ L’objectif à long terme est d’élargir la plateforme avec de nouvelles fonc
     
 - 🚀 son niveau actuel
 
-![Screenshot du parcours user en diagram](⭐️ Parcours User.jpg)
+![Parcours utilisateur](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\⭐️ Parcours User.jpg)
 
 ---
 
@@ -169,7 +169,7 @@ L’objectif à long terme est d’élargir la plateforme avec de nouvelles fonc
 # 🖼 Wireframe
 
 
-![[🖼 Wireframe Questonaut 1.png]]
+![Wireframe](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\🖼 Wireframe Questonaut 1.png)
 
 
 ---
@@ -177,29 +177,29 @@ L’objectif à long terme est d’élargir la plateforme avec de nouvelles fonc
 
 ### Landing Page
 
-![[maquette_landingpage.png|496]]
+![landing page](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_landingpage.png)
 
 ### Login / SignUp
 
-![[maquette_login_signup.png|488]]
+![login](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_login_signup.png)
 
 ### Dashboard
 
-![[maquette_dashboard.png|488]]
+![dashboard](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_dashboard.png)
 
-![[maquette_dashboard2.png|488]]
+![dashboard2](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_dashboard2.png)
 
 ### Habits
 
-![[maquette_habits.png|486]]
+![habits](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_habits.png)
 
 ### Create new mission
 
-![[create_new_mission.png|493]]
+![create_new_mission](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\create_new_mission.png)
 
 ### Stats
 
-![[maquette_stats.png|485]]
+![stats](C:\Users\allen\Nextcloud\⚡️Questonaut - Habit Tracker\🎨 Design Prototype (maquette)\maquette_stats.png)
 
 
 ---
