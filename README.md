@@ -1,6 +1,6 @@
 # Questonaut - Habit Tracker App - Projet Final THP
 
----
+
 ## 📝 Présentation
 
 Ce projet est conçu et développé sur une quinzaine de jours en suivant la **méthodologie Agile**, structurée autour de **user stories**. Cette approche nous a permis d’organiser le développement par étapes courtes et d’aboutir rapidement à une **version fonctionnelle de l’application**.
@@ -142,7 +142,7 @@ L’objectif à long terme est d’élargir la plateforme avec de nouvelles fonc
     
 - 🚀 son niveau actuel
 
-![[⭐️ Parcours User.jpg]]
+![Screenshot du parcours user en diagram](⭐️ Parcours User.jpg)
 
 ---
 
