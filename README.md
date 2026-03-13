@@ -142,7 +142,7 @@ L’objectif à long terme est d’élargir la plateforme avec de nouvelles fonc
     
 - 🚀 son niveau actuel
 
-![Parcours utilisateur](images_assets/⭐️%20Parcours%20User.jpg)
+![Parcours utilisateur](images_assets/Parcours_user.jpg)
 
 ---
 
@@ -169,7 +169,7 @@ L’objectif à long terme est d’élargir la plateforme avec de nouvelles fonc
 # 🖼 Wireframe
 
 
-![Wireframe](images_assets/🖼%20Wireframe%20Questonaut%201.png)
+![Wireframe](images_assets/Wireframe.png)
 
 
 ---
